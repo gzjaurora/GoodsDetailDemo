@@ -1,0 +1,1 @@
+# GoodsDetailDemo仿京东商品详情页，viewpager实现双层嵌套
